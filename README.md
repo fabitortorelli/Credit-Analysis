@@ -67,8 +67,13 @@ To further improve the analysis, future steps may include:
 
 - Gini coefficient and KS statistics: both metrics showed that the model is performing well, but it could be refined. It can be done by adding new features, transforming existing ones, or trying different algorithms such as random forests or gradient boosting
 
-- Loss Given Default (LGD), Exposure at Default (EAD), and Expected Loss (EL): as we don’t know the meaning of the features it wasn’t possible to calculate LGD, EAD and EL
+- Loss Given Default (LGD), Exposure at Default (EAD), and Expected Loss (EL): as we don’t know the meaning of the features it wasn’t possible to calculate LGD, EAD, and EL
+
+## Acknowledgements
+Part of the methodology used in this project, including techniques for logistic regression and credit risk modeling, was inspired by concepts and examples provided in both the PED and EBA courses by [Renata Biaggi](https://renatabiaggi.com/), as well as the ["Credit Risk Modeling in Python"](https://www.udemy.com/course/credit-risk-modeling-in-python/learn/lecture/15585764?start=450#overview) course on Udemy.
 
 ## Contributing
 Contributions are welcome! If you have additional data, corrections, or suggestions, feel free to contact me. Please ensure that your contributions align with the project's goals and maintain a respectful tone. 
+
+
 
